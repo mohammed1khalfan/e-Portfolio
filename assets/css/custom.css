@@ -1,0 +1,7 @@
+
+/* Custom tweaks for the e‑Portfolio */
+.ref-list { direction: ltr; } /* Keep references readable */
+.muted { opacity: .8; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid rgba(255,255,255,.08); padding: .6rem; text-align: left; }
+.wrapper .features article h3 { font-size: 1.05rem; }
